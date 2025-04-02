@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 share: false
 author_profile: true
-author: Caleb Curry
+author: Dalio Benavidez Jr.
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
